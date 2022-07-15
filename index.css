@@ -101,6 +101,7 @@ body{
     background-size: 100%;
     background-attachment: fixed;
     background-image: url(awa.JPG);
+    font-family: "幼圆"
 }
 
 #all-box{
@@ -111,14 +112,14 @@ body{
     height: 430px;
     border-radius: 15px
 }
-.login-button { /* 按钮美化 */
+.login-button { 
     width: 160px; /* 宽度 */
     height: 30px; /* 高度 */
     border-width: 1px; /* 边框宽度 */
     border-radius: 3px; /* 边框半径 */			  
     background: rgba(165, 223, 223,0.8); /* 背景颜色 */
     cursor: pointer; /* 鼠标移入按钮范围时出现手势 */
-    font-family: Microsoft YaHei; /* 设置字体 */
+    font-family: "幼圆"; /* 设置字体 */
     color: rgba(4, 0, 255, 0.712); /* 字体颜色 */
     font-size: 16px; /* 字体大小 */
     border-radius: 10px

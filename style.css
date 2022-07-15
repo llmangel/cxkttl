@@ -198,3 +198,9 @@ section .color:nth-child(3) {
     font-weight: 600;
     text-decoration: none;
 }
+
+body{
+    background-size: 100%;
+    background-attachment: fixed;
+    background-image: url(awa.JPG);
+}
